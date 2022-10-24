@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgrimaSaraf
 - 👀 I’m interested in full stack web-development
-- 🌱 I’m currently learning ackend development
-- 💞️ I’m looking to collaborate on front end and backend development projects
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on fullstack development projects
 - 📫 How to reach me agrimasaraf.runu@gmail.com
 
 <!---
