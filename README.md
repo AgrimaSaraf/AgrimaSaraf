@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgrimaSaraf
-- 👀 I’m interested in full stack web-development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on fullstack development projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently Python for Data Analysis
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me agrimasaraf.runu@gmail.com
 
 <!---
