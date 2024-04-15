@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgrimaSaraf
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently Python for Data Analysis
+- 🌱 I’m currently learing Python for Data Analysis
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me agrimasaraf.runu@gmail.com
 
