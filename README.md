@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @AgrimaSaraf
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learing Python for Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me agrimasaraf.runu@gmail.com
+👋 Hi, I’m Agrima  
+🧠 Into product management, user problems, and platform thinking  
+🛠 Exploring how products are designed, tested, and scaled — across startups & big tech  
+📈 Focused on clarity, tradeoffs, and real-world impact  
+💃 dance enthusiast  
+🤝 Open to collaborating on product case studies & experiments  
+📫 Reach me: agrimasaraf.runu@gmail.com
 
 <!---
 AgrimaSaraf/AgrimaSaraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
