@@ -1,7 +1,6 @@
 👋 Hi, I’m Agrima  
-🧠 Into product management, user problems, and platform thinking  
+🧠 Into product management, startups and business
 🛠 Exploring how products are designed, tested, and scaled — across startups & big tech  
-📈 Focused on clarity, tradeoffs, and real-world impact  
 💃 dance enthusiast  
 🤝 Open to collaborating on product case studies & experiments  
 📫 Reach me: agrimasaraf.runu@gmail.com
