@@ -24,8 +24,8 @@ Python • SQL • RAG • LLM Agents • Hybrid Retrieval • FastAPI • Data 
 
 🌱 Outside Tech:
 
-🧘🏻‍♀️ Fitness • 🎀 Fashion • 📚 Always Reading — physics, math, biology, psychology, chemistry, business, economics, geopolitics & history • 
-✍🏻 Sometimes Writing — https://medium.com/@agrimasaraf.runu  
+🧘🏻‍♀️ Fitness • 🎀 Fashion • 📚 Always Reading • ✍🏻 Sometimes Writing
+
 
 📩 Open to cool collaborations & experiments — let's talk.
 
