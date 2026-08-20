@@ -5,7 +5,7 @@
 
 💼 Background:
 
-📖 Bachelor of Technology in Computer Science & Engineering, Master of Science in Engineering Management from Northeastern University, Boston, USA
+👩🏻‍🎓 Bachelor of Technology in Computer Science & Engineering, Master of Science in Engineering Management from Northeastern University, Boston, USA
 
 👩🏻‍💻 Business analytics & consulting using SQL, Power BI & business intelligence  
 
@@ -24,7 +24,7 @@ Python • SQL • RAG • LLM Agents • Hybrid Retrieval • FastAPI • Data 
 
 🌱 Outside Tech:
 
-💪🏻 Fitness • 🎀 Fashion • 📚 Always Reading — physics, math, biology, psychology, chemistry, business, economics, geopolitics & history • 
+🧘🏻‍♀️ Fitness • 🎀 Fashion • 📚 Always Reading — physics, math, biology, psychology, chemistry, business, economics, geopolitics & history • 
 ✍🏻 Sometimes Writing — https://medium.com/@agrimasaraf.runu  
 
 📩 Open to cool collaborations & experiments — let's talk.
