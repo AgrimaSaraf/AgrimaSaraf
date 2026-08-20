@@ -1,11 +1,17 @@
 👋🏻 Hi, I’m Agrima
 
 👾 Into artificial intelligence, software & business
+
 🧠 Exploring LLMs, agents, RAG & AI systems
+
 ⚙️ Building AI projects + product experiments
+
 📖 Perpetually reading — tech, business, economics & history
+
 🎙️ Host of FounderTechTok
+
 🤝🏻 Open to cool collaborations & experiments
+
 💌 Reach me: agrimasaraf.runu@gmail.com
 
 <!---
